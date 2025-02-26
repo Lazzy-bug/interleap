@@ -1,6 +1,6 @@
-# Interleap Quiz App
+# Interleap Quiz
 
-Interleap Quiz App is an AI DevOps application where all answers are available. You just need to search for the questions.
+Interleap Quiz is an AI DevOps application where all answers are available. You just need to search for the questions.
 
 ## Features
 
