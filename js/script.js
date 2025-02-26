@@ -48,7 +48,6 @@ function searchQuestions(query) {
                 if (correctOptionIndex !== -1) {
                     const correctOptionId = ['option-a', 'option-b', 'option-c', 'option-d'][correctOptionIndex];
                     document.getElementById(correctOptionId).style.backgroundColor = 'green';
-                    document.getElementById(correctOptionId).style.color = 'white';
                 }
             } else {
                 console.warn("No matching questions found.");
